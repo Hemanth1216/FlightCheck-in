@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CheckIn Confirmation</title>
+</head>
+<body>
+	<h2>Check in is confirmed successfully...</h2>
+	
+	<h4>Thank You</h4>
+</body>
+</html>
